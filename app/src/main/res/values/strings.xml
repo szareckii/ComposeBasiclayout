@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Test8</string>
+    <string name="placeholder_search">Search</string>
+    <string name="ab1_inversions">Inversions</string>
+    <string name="fc2_nature_meditations">Nature meditations</string>
+    <string name="align_your_body">Align your body</string>
+    <string name="favorite_collections">Favorite collections</string>
+    <string name="bottom_navigation_home">Home</string>
+    <string name="bottom_navigation_profile">Profile</string>
+</resources>
